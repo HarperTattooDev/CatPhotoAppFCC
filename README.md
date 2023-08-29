@@ -3,7 +3,7 @@
  <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)-->
 
 <h2>Description</h2>
-Practice Project consists of Some HTML basics that cover elements like: html, headings, head, body, main, paragraph, button, footer, input, form, ordered list, unordered list, legend, image, anchor, figure, figcaption, label, and section.
+This is a guided practice Project from FreeCodeCamp, it consists of Some HTML basics that cover elements like: html, headings, head, body, main, paragraph, button, footer, input, form, ordered list, unordered list, legend, image, anchor, figure, figcaption, label, and section.
 
 <br />
 
